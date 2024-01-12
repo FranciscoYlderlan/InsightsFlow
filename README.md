@@ -2,6 +2,8 @@
 
 **InsightsFlow** é uma aplicação moderna desenvolvida com Vite, TypeScript, React, Node.js e Tailwind CSS, proporcionando uma experiência poderosa para compartilhar, reagir e comentar em postagens.
 
+![Preview](./public/preview.png)
+
 ## Principais Funcionalidades:
 
 - **Publicação de Conteúdo:** Compartilhe suas ideias, atualizações e descobertas com uma interface intuitiva e amigável.
